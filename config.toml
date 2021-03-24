@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Dr Sepehr Lajevardi"
 defaultContentLanguage = "en"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
@@ -12,10 +12,10 @@ theme = "hugo-scroll"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© John Smith"
+    copyright = "© Dr Sepehr Lajevardi"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Things and stuff"
+    description = "Plastic Surgeon (Reconstructive & Cosmetic)"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -29,11 +29,11 @@ theme = "hugo-scroll"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "John Smith - Amazing Guy"
+    title = "Dr Sepehr Lajevardi - Plastic Surgeon (Reconstructive & Cosmetic)"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     hidedesignbyline = true
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "dr sepehr lajevardi, plastic surgeon, reconstructive, cosmetic"
