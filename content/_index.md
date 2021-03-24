@@ -1,6 +1,6 @@
 ---
-header_image: "/uploads/coffee.jpg"
-header_headline: John Smith
-header_subheadline: Amazing Guy
+header_image: "/uploads/sepehr.jpg"
+header_headline: " Dr Sepehr Lajevardi"
+header_subheadline: Plastic Surgeon (Reconstructive & Cosmetic)
 
 ---
